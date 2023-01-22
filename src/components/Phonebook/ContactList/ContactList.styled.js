@@ -27,6 +27,7 @@ export const Button = styled.button`
   border: 0 solid;
   outline: 2px solid;
   outline-color: hsla(0, 0%, 100%, 0.5);
+  text-transform: uppercase;
   transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
   :hover {
     transform: scale(1.08);
