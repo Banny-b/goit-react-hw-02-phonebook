@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 
 export const Section = styled.section`
-    height: auto;
+    min-height: 768px;
     padding-top: 20px;
     padding-bottom: 20px;
     display: flex;
